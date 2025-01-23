@@ -45,7 +45,7 @@ SuRक्षा is built with the following technologies:
 
 ## Getting Started
 
-To start using SuRक्षा, follow the steps below.
+To start SuRक्षा, follow the steps below.
 
 ### Prerequisites
 
